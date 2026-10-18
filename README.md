@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shipandgologistics/shipandgologistics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ship and Go Logistics Inc.
 
-Here are some ideas to get you started:
+**Freight and logistics, moved with care.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website](https://www.shipandgologistics.com) · [Request a quote](https://www.shipandgologistics.com/get-a-quote) · [Email us](mailto:info@shipandgologistics.com)
+
+</div>
+
+---
+
+## 👋 About us
+
+Ship and Go Logistics Inc. helps businesses move freight by air, sea and road, with customs and warehousing support along the way. <!-- TODO(owner): add location, year founded and any verified credentials. -->
+
+## 🚚 What we do
+
+| | |
+| --- | --- |
+| ✈️ **Air freight** | 🚢 **Sea freight** |
+| 🚛 **FTL and LTL freight** | 🛃 **Customs clearance** |
+| 📦 **Import services** | 🏬 **Warehousing** |
+| 🧩 **Consolidation** | 🛣️ **Inland transportation** |
+
+## 💻 On GitHub
+
+This is where we keep the code behind our digital services, starting with our website.
+
+- **Website:** built with Next.js, React and TypeScript and hosted on Cloudflare, with accessibility (WCAG 2.2 AA), security and performance as core requirements. <!-- TODO(owner): link the repo here if it becomes public. -->
+
+## 📫 Get in touch
+
+- 🌐 [shipandgologistics.com](https://www.shipandgologistics.com)
+- ✉️ [info@shipandgologistics.com](mailto:info@shipandgologistics.com)
+- 📞 TODO(owner): phone number
+- 📍 TODO(owner): city, province
+
+<div align="center">
+<sub>© Ship and Go Logistics Inc.</sub>
+</div>
