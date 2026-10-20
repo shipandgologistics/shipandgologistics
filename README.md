@@ -33,8 +33,8 @@ This is where we keep the code behind our digital services, starting with our we
 
 - 🌐 [shipandgologistics.com](https://www.shipandgologistics.com)
 - ✉️ [info@shipandgologistics.com](mailto:info@shipandgologistics.com)
-- 📞 TODO(owner): phone number
-- 📍 TODO(owner): city, province
+- 📞 : +1 (249) 979-2307
+- 📍 : 39 Robertson Davies drive, Brampton, ON L7A 1K3
 
 <div align="center">
 <sub>© Ship and Go Logistics Inc.</sub>
